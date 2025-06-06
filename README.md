@@ -67,7 +67,7 @@ For each meal, the agent crafts a rich, story-driven narrative that includes:
 
 ---
 
-## 🥘 Example Outputs
+## Example Outputs
 
 ### Delhi
 
